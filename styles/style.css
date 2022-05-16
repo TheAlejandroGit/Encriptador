@@ -1,0 +1,71 @@
+#alura{
+    margin-right: 50px;
+}
+#titulo{
+    margin-left: 50px;
+    display: inline-block;
+}
+#ningun{
+    display: inline-block;
+    margin-left: 200px;
+    height: 400px;
+}
+.areaTexto{
+    width: 400px;
+    height: 400px;
+    left: 240px;
+    top: 168px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    color: #0A3871;
+}
+
+#Encriptar{
+    display: inline-block;
+    width: 200px;
+    height: 25px;
+
+    text-align: center;
+    color:white;
+    background-color: rgb(6, 6, 74);
+    border-radius: 20px;
+    cursor: pointer;
+
+}
+
+#Desencriptar{
+    width: 200px;
+    height: 25px;
+  
+    text-align: center;
+    color:white;
+    background-color: rgb(6, 6, 74);
+    border-radius: 20px;
+    cursor: pointer;
+    
+}
+#copiar{
+    margin-left: 200px;
+    width: 200px;
+    height:25px;
+    text-align:center;
+    color: white;
+    background-color:grey;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#creditos{
+    margin-top: 50px;
+    color: rgb(83, 83, 209);
+    
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end;
+
+
+}
